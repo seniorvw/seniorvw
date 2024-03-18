@@ -17,8 +17,6 @@ I am a full-stack software engineer building my version of the digital world one
 
 #### 💬 Ask me about anything you want
 
-### 📫 If you prefer reaching out via email, check it out below: 
-> Click <a href="mailto:gonwuchekwa3@gmail.com"> here </a>
 
 ### :hammer_and_wrench: Languages and Tools I have worked with: 
 
