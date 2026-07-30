@@ -3,11 +3,7 @@
 I am a full-stack software engineer building my version of the digital world one step at a time. All my projects are built form the ground up.
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniortechdev&theme=chalk&column=4" alt="seniortechdev profile" /></a>
-  <br />
-  <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-</p>
+
 
 
 #### 💬 Ask me about anything you want
